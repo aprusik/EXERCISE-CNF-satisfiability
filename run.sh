@@ -1,0 +1,3 @@
+#!/bin/sh
+
+scala SatApp $@
